@@ -25,6 +25,6 @@ I’ll be coding daily with projects in **JavaScript**, **TypeScript**, **React*
 Stay tuned for daily updates and projects!  
 Happy holidays and happy coding! ✨💻✨
 
-Day-1🚀 [random quote git](https://github.com/Turdugul/quote-app) 
-Day-2 🚀 [age calculator](https://github.com/Turdugul/age-calculator)
+-- Day-1🚀 [random quote git](https://github.com/Turdugul/quote-app) 
+-- Day-2 🚀 [age calculator](https://github.com/Turdugul/age-calculator)
 
