@@ -7,7 +7,7 @@
 [![Challenge](https://img.shields.io/badge/Challenge-Daily%20Coding-green?style=flat-square)](https://github.com/your-repo-link)
 
 Welcome to the **Christmas Coding Challenge 2024 - JavaScript Solutions** repository!  
-This project is part of the exciting initiative organized by the **Women Coding Community**.  
+This project is part of the exciting initiative organized by the [Women Coding Community](https://womencodingcommunity.com/).  
 
 Through this challenge, I am committing to coding every day, focusing on **JavaScript**, **TypeScript**, **React**, and **Next.js** projects.
 
@@ -20,4 +20,3 @@ Through this challenge, I am committing to coding every day, focusing on **JavaS
 ---
 
 Stay tuned for daily updates and solutions! Let's make this coding journey a memorable and impactful one! 💻✨
-
