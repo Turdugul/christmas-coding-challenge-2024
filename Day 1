@@ -1,1 +1,18 @@
-Quote app
+# Random Quote Generator
+
+## Overview
+This is a **Random Quote Generator** app built using **React**, **Vite**, **TypeScript**, **Tailwind CSS**, and **Firebase**. The app allows users to add their own quotes and fetch random quotes from a Firestore database.
+
+## Features
+- **Add Quotes**: Users can add their own quotes along with the author's name.
+- **Fetch Random Quote**: Users can fetch a random quote from the database.
+- **Responsive Design**: Built with **Tailwind CSS** for a clean and responsive UI.
+
+## Technologies Used
+- **React** for the user interface.
+- **Vite** as the build tool for faster development.
+- **TypeScript** for type safety.
+- **Tailwind CSS** for modern and responsive styling.
+- **Firebase Firestore** to store and retrieve quotes.
+
+[Random Quote Generator](https://github.com/Turdugul/quote-app)
