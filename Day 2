@@ -1,0 +1,32 @@
+Age Calculator App
+
+This is a simple and responsive age calculator web application built using React, TypeScript, Tailwind CSS, and Vite. The app allows users to calculate their exact age in years, months, and days based on their birthdate.
+
+Features
+
+Date Input: Users can input their birthdate using a date picker.
+
+Accurate Age Calculation: Calculates and displays the age in years, months, and days.
+
+Responsive Design: Fully responsive layout, styled with Tailwind CSS, to ensure usability across all device sizes.
+
+Reset Functionality: Automatically resets the input field after calculation.
+
+Error Handling: Displays a friendly error message for invalid or incomplete inputs.
+
+Tech Stack
+
+React: JavaScript library for building user interfaces.
+
+TypeScript: Provides type safety and improved code quality.
+
+Vite: Fast and modern development build tool.
+
+Tailwind CSS: Utility-first CSS framework for rapid UI design.
+
+Installation
+
+```bash
+   git clone https://github.com/Turdugul/age-calculator.git
+
+
