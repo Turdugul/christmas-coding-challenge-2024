@@ -1,0 +1,17 @@
+Rock Paper Scissors Game
+
+This project is a simple Rock Paper Scissors game built with React. The game allows a player to compete against the computer in 10 rounds of Rock Paper Scissors.
+
+Features
+
+Interactive Gameplay: Click buttons to make your choice (rock, paper, or scissors).
+
+Scorekeeping: Displays both the player's and computer's scores after each round.
+
+Round Tracking: The game lasts 10 rounds, with a reset after completing all rounds.
+
+Responsive Design: Optimized for various screen sizes using modern CSS techniques.
+
+Installation
+
+git clone https://github.com/Turdugul/rock-paper-scissors-game.git
