@@ -29,4 +29,6 @@ Happy holidays and happy coding! ✨💻✨
 
 -  Day-1🚀 [random quote git](https://github.com/Turdugul/quote-app) 
 -  Day-2 🚀 [age calculator](https://github.com/Turdugul/age-calculator)
+-  Day-3 🚀  [Rock Paper Scissors game](https://github.com/Turdugul/rock-paper-scissors-game)
+
 
