@@ -1,0 +1,5 @@
+I started creating a Next.js project on day -4 commit.
+I am using Next.js and Tailwind CSS. 
+I added a Header component, implemented a dark-light theme, and used next-themes for theme management.
+
+git clone https://github.com/Turdugul/my-blog-next.js.git
