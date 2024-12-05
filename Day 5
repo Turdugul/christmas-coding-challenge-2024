@@ -1,0 +1,8 @@
+I am working on my blog project using Next.js and Tailwind CSS.
+Day -5 Commit:
+User Authentication
+
+Installed and configured Clerk, a powerful user management solution, to handle authentication.
+Created fully functional Sign In and Sign Up pages to enable user login and registration.
+
+git clone https://github.com/Turdugul/my-blog-next.js.git
