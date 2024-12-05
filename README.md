@@ -31,5 +31,6 @@ Happy holidays and happy coding! ✨💻✨
 -  Day-2 🚀 [age calculator](https://github.com/Turdugul/age-calculator)
 -  Day-3 🚀  [Rock Paper Scissors game](https://github.com/Turdugul/rock-paper-scissors-game)
 -  Day-4 🚀 [My-blog](https://github.com/Turdugul/my-blog-next.js)
+-  Day-5 🚀  [My-blog](https://github.com/Turdugul/my-blog-next.js)
 
 
