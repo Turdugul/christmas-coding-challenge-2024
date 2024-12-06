@@ -1,0 +1,8 @@
+I have been working on my blog project using Next.js and Tailwind CSS.
+Day 6 Commit:
+
+Sync Clerk data to the application using webhooks.
+Integrate MongoDB and save users from Clerk.
+The user signs up with Clerk, and their data is saved in MongoDB.
+
+git clone https://github.com/Turdugul/my-blog-next.js.git
