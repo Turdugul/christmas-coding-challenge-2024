@@ -1,0 +1,10 @@
+I have been working on my blog project using Next.js and Tailwind CSS.
+Day 7 Commit:
+
+Added the "Create Post" page UI and implemented admin-only access.
+Completed the post upload functionality.
+Implemented image upload functionality using Firebase Storage.
+Finalized the "Post" page functionality, with posts now being saved to MongoDB.
+
+
+https://github.com/Turdugul/my-blog-next.js/commit/1bc6ba5ea2590dcde798a7ff25998e42a146adfb
