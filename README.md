@@ -36,6 +36,9 @@ Happy holidays and happy coding! ✨💻✨
 -  Day-7 🚀 [My-blog](https://github.com/Turdugul/my-blog-next.js/commit/1bc6ba5ea2590dcde798a7ff25998e42a146adfb)
 -  Day-8 🚀  [My-blog](https://github.com/Turdugul/my-blog-next.js/commit/c1f6801f028eaf0bb2ca9fc67d493a0d876900a8)
 -  Day-9 🚀  [My-blog](https://github.com/Turdugul/my-blog-next.js/commit/27e1a1390df75e4e6b6ff1d5dc7e3a2ed093021a)
+-  Day-10 🚀  [My-blog](https://github.com/Turdugul/my-blog-next.js/commit/4ea1061adf3677cd88eda3d2ae6582e42810a5ee)
+
+-  
 
 
 
