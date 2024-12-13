@@ -1,0 +1,14 @@
+The DashboardComp component is designed for an admin dashboard to display key statistics and recent activity on the platform. 
+It provides important insights into user and post counts, and shows tables with details about the most recent users and posts.
+
+Key Features
+User and Post Stats:
+
+Displays the total number of users and total number of posts on the platform.
+Shows the number of new users and posts from the previous month.
+Recent Users and Posts:
+
+Displays tables of the most recent users and posts with basic information:
+User Table: Shows user profile images and usernames.
+Post Table: Shows post images, titles, and categories.
+https://github.com/Turdugul/my-blog-next.js/commit/7a7df9025b467b3387c20b029969ca02a36bbe84
