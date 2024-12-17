@@ -43,6 +43,7 @@ Happy holidays and happy coding! ✨💻✨
 -  Day-14 🚀  [Pomodoro-app](https://github.com/Turdugul/christmas-coding-challenge-2024/commit/507ddc5094112d547583a93c6fd33ccdfaff1722)
 -  Day-15 🚀  [News-app](https://github.com/Turdugul/news-app-next.js/commit/636645365f6cc590aef933d05f691edc2473e660)
 -  Day-16 🚀  [News-app](https://github.com/Turdugul/news-app-next.js/commit/dce3c8b4c503bfb6fbfb223b850f85983b5c6098)
+-  Day-17 🚀  [News-app](https://github.com/Turdugul/news-app-next.js/commit/deaa98333c7e6e2493cefbe5c77adaabfd3d7f9b)
 
 
 
