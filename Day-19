@@ -1,0 +1,13 @@
+This is a simple React app that shows a countdown timer for New Year's Eve (January 1, 2025). Once the countdown reaches zero, it displays a "Happy New Year!" message along with the current time. The app is fully responsive and works well on both mobile and desktop devices.
+
+Features:
+- Real-time countdown to New Year.
+- Displays the current time.
+- Fully responsive design for all screen sizes.
+
+Technologies Used:
+- React
+- Tailwind CSS
+- JavaScript (ES6)
+
+https://github.com/Turdugul/new-year-coundown
