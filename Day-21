@@ -1,0 +1,8 @@
+https://github.com/Turdugul/math-for-kids/commit/d1a722ff1c522977edb6bf40fff2411a2bb0391c
+
+Added difficulty range for the project
+
+// Define difficulty ranges
+  const maxNum = difficulty === "easy" ? 20 : difficulty === "medium" ? 50 : 99;
+
+https://github.com/Turdugul/math-for-kids/commit/d1a722ff1c522977edb6bf40fff2411a2bb0391c
