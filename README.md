@@ -45,8 +45,10 @@ Happy holidays and happy coding! ✨💻✨
 -  Day-16 🚀  [News-app](https://github.com/Turdugul/news-app-next.js/commit/dce3c8b4c503bfb6fbfb223b850f85983b5c6098)
 -  Day-17 🚀  [News-app](https://github.com/Turdugul/news-app-next.js/commit/deaa98333c7e6e2493cefbe5c77adaabfd3d7f9b)
 -  Day-18 🚀  [News-app](https://github.com/Turdugul/christmas-coding-challenge-2024/commit/07034d3d9d6ff59d30bc48ba97ec1234cefa5c87)
--  Day-19🚀  [New Year Countdown](https://github.com/Turdugul/new-year-coundown)
--  Day-20🚀  [Countdown to New Year](https://github.com/Turdugul/math-for-kids)
+-  Day-19🚀  [The countdown to the New Year](https://github.com/Turdugul/new-year-coundown)
+-  Day-20🚀  [Math-for-kids](https://github.com/Turdugul/math-for-kids)
+-  Day-20🚀  [Math-for-kids](https://github.com/Turdugul/math-for-kids/commit/d1a722ff1c522977edb6bf40fff2411a2bb0391c)
+
 
 
 
