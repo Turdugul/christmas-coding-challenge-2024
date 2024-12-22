@@ -47,7 +47,11 @@ Happy holidays and happy coding! ✨💻✨
 -  Day-18 🚀  [News-app](https://github.com/Turdugul/christmas-coding-challenge-2024/commit/07034d3d9d6ff59d30bc48ba97ec1234cefa5c87)
 -  Day-19🚀  [The countdown to the New Year](https://github.com/Turdugul/new-year-coundown)
 -  Day-20🚀  [Math-for-kids](https://github.com/Turdugul/math-for-kids)
--  Day-20🚀  [Math-for-kids](https://github.com/Turdugul/math-for-kids/commit/d1a722ff1c522977edb6bf40fff2411a2bb0391c)
+-  Day-21🚀  [Math-for-kids](https://github.com/Turdugul/math-for-kids/commit/d1a722ff1c522977edb6bf40fff2411a2bb0391c)
+-  Day-22🚀  [Math-for-kids](https://github.com/Turdugul/math-for-kids/commit/0561cb44e3149a0bae1185452c08f87f06aca9bb)
+
+
+
 
 
 
