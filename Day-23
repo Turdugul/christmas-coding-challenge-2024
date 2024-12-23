@@ -1,0 +1,21 @@
+
+Planner App
+The Planner App is a personal tool built with Next.js, TypeScript, Tailwind CSS, and Framer Motion. It helps you organize your life by allowing you to set and track personal goals, plan your daily tasks, and maintain a personal diary. The app provides a smooth and interactive experience, designed for users who want to stay organized, productive, and reflective throughout their day.
+
+Features:
+Goal Setting: Set personal or professional goals and track your progress.
+Task Planner: Organize your day with a task planner, set deadlines, and track your to-do list.
+Diary: Record your personal thoughts, experiences, and reflections in a simple, intuitive journaling feature.
+Dashboard: A central hub where you can get an overview of your goals, tasks, and recent diary entries.
+Responsive Design: Fully responsive layout, optimized for both desktop and mobile devices.
+Animations: Smooth page transitions and animations using Framer Motion to enhance the user experience.
+
+Tech Stack:
+Next.js: A powerful framework for building React applications with server-side rendering.
+TypeScript: Type-safe JavaScript, ensuring a better development experience with fewer bugs.
+Tailwind CSS: A utility-first CSS framework that makes styling faster and more efficient.
+Framer Motion: A library for creating smooth and interactive animations for React apps.
+
+
+
+https://github.com/Turdugul/planner-app
