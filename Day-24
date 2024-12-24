@@ -1,0 +1,6 @@
+Page Transitions with AnimatePresence
+
+Updated App Router layout to wrap pages with AnimatePresence.
+Each page will fade in and out during navigation.
+
+https://github.com/Turdugul/planner-app/commit/924b363e14864aac336f4519196e1f82a7db12aa
