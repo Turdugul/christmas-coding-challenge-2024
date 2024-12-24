@@ -50,6 +50,8 @@ Happy holidays and happy coding! ✨💻✨
 -  Day-21🚀  [Math-for-kids](https://github.com/Turdugul/math-for-kids/commit/d1a722ff1c522977edb6bf40fff2411a2bb0391c)
 -  Day-22🚀  [Math-for-kids](https://github.com/Turdugul/math-for-kids/commit/0561cb44e3149a0bae1185452c08f87f06aca9bb)
 -  Day-23🚀  [Planner app](https://github.com/Turdugul/planner-app)
+-  Day-24🚀  [Planner app](https://github.com/Turdugul/planner-app/commit/924b363e14864aac336f4519196e1f82a7db12aa)
+
 
 
 
