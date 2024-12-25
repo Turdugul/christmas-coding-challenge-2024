@@ -1,0 +1,9 @@
+
+I have successfully completed the following tasks:
+
+Integrated Firebase: Added Firebase to the project for backend and database functionalities.
+Stored data to Firestore: Implemented functionality to save data to Firebase Firestore.
+Implemented CRUD operations: Built features to create, read, update, and delete data in Firestore.
+Enhanced responsive design: Improved the app's responsiveness to ensure a seamless user experience across devices.
+
+https://github.com/Turdugul/planner-app/commit/12094d4dc8b716fd22953bce1270dbc75f49280c
