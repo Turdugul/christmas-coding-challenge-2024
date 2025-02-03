@@ -11,7 +11,7 @@ Proudly participating in this initiative by the [Women Coding Community](https:/
 
 ### My Certification
 
-[Certificate Title](https://github.com/Turdugul/christmas-coding-challenge-2024/commit/9bb387158242ba6be04ea46a5041b5483ebd8cca)
+![Certificate Title](https://github.com/Turdugul/christmas-coding-challenge-2024/commit/9bb387158242ba6be04ea46a5041b5483ebd8cca)
 
 I’ll be coding daily with projects in **JavaScript**, **TypeScript**, **React**, and **Next.js**. 🚀  
 ---
