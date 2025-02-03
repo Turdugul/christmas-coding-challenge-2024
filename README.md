@@ -10,7 +10,7 @@ Welcome to the **Christmas Coding Challenge 2024** repository!
 Proudly participating in this initiative by the [Women Coding Community](https://womencodingcommunity.com/).  
 
 ### My Certification
-![My Certificate](https://raw.githubusercontent.com/Turdugul/christmas-coding-challenge-2024/TurdugulOkonbaeva.png)
+![My Certificate](view-source:https://github.com/Turdugul/christmas-coding-challenge-2024/blob/main/Turdugul%20Okonbaeva.png)
 
 
 I’ll be coding daily with projects in **JavaScript**, **TypeScript**, **React**, and **Next.js**. 🚀  
