@@ -13,7 +13,7 @@ Proudly participating in this initiative by the [Women Coding Community](https:/
 ![My Certificate](TurdugulOkonbaeva.png)
 
 
-I’ll be coding daily with projects in **JavaScript**, **TypeScript**, **React**, and **Next.js**. 🚀  
+I have been coding daily on projects using JavaScript, TypeScript, React, and Next.js during the Christmas Coding Challenge from December 1st to 25th, 2024. 🚀
 ---
 
 ## 📅 Challenge Goals
